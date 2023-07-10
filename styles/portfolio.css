@@ -170,3 +170,11 @@ main{
     margin-top: 50px;
 }
 
+/* footer css */
+footer {
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+}
+
